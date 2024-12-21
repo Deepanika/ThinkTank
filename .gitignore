@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+tutor_env/
+.env/
+
+# Local environment settings
+.vscode/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python dependency files
+pip-wheel-metadata/
+*.egg-info/
+
+# Node.js (if applicable in the future)
+node_modules/
